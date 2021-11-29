@@ -2,6 +2,7 @@
 
 ### Hello, world 👋
 I'm a student from Chengdu, Sichuan Province, China
-- :computer: I’m currently learning Java
-- :orange_book: Focusing on study
+- :rocket: Dream of being an astronaut
+- :earth_asia: Protect the peace of the earth with love
+- :orange_book: Focusing on studying now
 - :meat_on_bone: Meat lover
